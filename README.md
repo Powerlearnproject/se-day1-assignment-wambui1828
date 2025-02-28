@@ -23,11 +23,11 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
   Waterfall- This is type of methodology which is more like a linear flow where one step finishes before the next step starts. It is suitable where the project is clear, precise and unlikely to change. An example where this method is suitable is when constructing a building.
-  Agile-This is the type of methodology which is more flexible, adaptable to change and emphasises on working in small iterations called sprints. It is suitable where the project is open to frequent updates, frequent feature additions and rapid time to market is crucial. Example where this method is suitable is when developing a new mobile application.
+  Agile-This is the type of methodology which is more flexible, adaptable to change and emphasizes on working in small iterations called sprints. It is suitable where the project is open to frequent updates, frequent feature additions and rapid time to market is crucial. Example where this method is suitable is when developing a new mobile application.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-  Software developer-A software developer is responsible for writing code and implementing sofware solutions.
-  Quality Assuarance Engineer-A quality assuarance manager is responsible for software quality by designing and executing test plans.
+  Software developer-A software developer is responsible for writing code and implementing software solutions.
+  Quality Assurance Engineer-A quality assurance manager is responsible for software quality by designing and executing test plans.
   Project Manager-The work of a project manager is to oversee the planning, execution and delivery of software projects.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
@@ -38,7 +38,7 @@ What are some common challenges faced by software engineers? Provide strategies 
   Tight deadlines-Pressure to deliver software products on schedule can result in rushed development and compromised quality. 
   Changing requirements-requirements may change in the development cycle leading to scope creep and project delays.
   Technical debt-This may accrue as a result from shortcuts or suboptimal solutions. Technical debts can impede future developments efforts and increase maintenance costs. 
-  These challenges can be overcomed by effective communication, agile methodologies, prioritization of tasks and regular reassessments of project goals and timeliness.
+  The strategies used to overcome these challenges include effective communication, agile methodologies, prioritization of tasks and regular reassessments of project goals and timeliness.
   
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
   Unit Testing-This involves testing of individual components or modules of software
@@ -52,10 +52,10 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-  Prompt Engineering involves crafuing questions or statements to get the best possible responses from AI models.
+  Prompt Engineering involves crafting questions or statements to get the best possible responses from AI models.
   Prompt engineering is important as it helps avoid getting confusing answers as it enables the questions to be clear and specific and makes AI understand exactly what you need.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
   An example of a vague prompt is "Tell me about dogs". 
   An example of a clear, specific and concise prompt is "Tell me about the history of dogs".
-  The vague prompt provides a general response while a clear and concise prompt provides a more focused response. It also improves humans interaction with AI as AI understands the request better.
+  The vague prompt provides a general response while a clear and concise prompt provides a more focused response. It also improves human interaction with AI as AI understands the request better.
